@@ -17,24 +17,24 @@ The dataset used for this project contains a collection of SMS messages, labeled
 Load and explore the dataset.
 Handle missing data, duplicates, and outliers.
 Text preprocessing, including tokenization and stop-word removal.
-**Feature Engineering:**
 
+**Feature Engineering:**
 Convert text data into numerical features (e.g., TF-IDF or word embeddings).
 Feature selection and dimensionality reduction (if necessary).
-**Model Building:**
 
+**Model Building:**
 Choose appropriate classification algorithms (e.g., Naive Bayes, Logistic Regression, Random Forest).
 Split the data into training and testing sets.
 Train and evaluate the models using relevant metrics (accuracy, precision, recall, F1-score).
-**Model Evaluation:**
 
+**Model Evaluation:**
 Visualize the model's performance using Seaborn and Matplotlib.
 Compare the results of different models and select the best one.
+
 **Model Deployment:**
-
 Implement the chosen model for real-time or batch processing of incoming SMS messages.
-**Case Study - Personify:**
 
+**Case Study - Personify:**
 Personify is a fictional company that offers a mobile app to its customers. By implementing the spam SMS classification model, Personify can achieve several benefits:
 
 Enhanced User Experience: Users will no longer receive spam SMS messages, leading to improved satisfaction with the app and reduced annoyance.
